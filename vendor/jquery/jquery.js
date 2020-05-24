@@ -80,7 +80,9 @@ var isFunction = function isFunction( obj ) {
       return typeof obj === "function" && typeof obj.nodeType !== "number";
   };
 
-
+  jQuery . htmlPrefilter  =  function (  html  )  { 
+	retorna  html ; 
+} ;
 var isWindow = function isWindow( obj ) {
 		return obj != null && obj === obj.window;
 	};
