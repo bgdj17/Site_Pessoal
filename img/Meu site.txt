@@ -1,0 +1,108 @@
+*** Home
+
+*** Meu livro
+
+*** Meus cursos
+
+*** Meu canal no Youtube
+
+*** Minhas experiências
+
+*** Contato
+
+<NÃO SEI ONDE COLOCAR A FOTO01, VERIFICAR>
+
+-----
+
+*** Home
+
+Olá. Meu nome é Vinicius Buscacio e este é meu site. Criei este site para juntar algumas informações sobre as coisas que faço. 
+
+<COLOCAR FOTO02>
+
+
+*** Meu livro
+
+<COLOCAR FOTO03, FOTO04 E FOTO05>
+
+
+Publiquei meu livro “Cisco Call Manager (CUCM) Guide: How to Install, Configure, and Maintain the Cisco IP Telephony System” em abril de 2019. O livro está disponível na Amazon.com no link abaixo. No momento, somente a versão em inglês. 
+
+Ele pode ser comprado na versão impressa (paperback) e digital (para o leitor digital Kindle).
+
+Na versão impressa, ele será impresso pela Amazon mais próxima (EUA, Europa, Japão) e enviado para sua casa. Infelizmente, essa impressão ainda não está disponível no Brasil. Se você está no Brasil, pode comprar a versão impressa, mas o valor da remessa (provavelmente dos EUA) sairá um pouco caro.
+
+Já a versão digital é distribuída pelo leitor digital Kindle. Mesmo que você não possua o leitor Kindle em hardware, você pode instalar gratuitamente a versão via software para PC (Windows), Mac OS, IOS (iPhone, iPad) ou para celulares Android. Existe até mesmo uma versão Web, que pode ser acessada por qualquer navegador web.
+
+O livro custa US$ 10 na versão Kindle e US$ 20 na versão impressa.
+
+https://www.amazon.com/Cisco-Call-Manager-CUCM-Guide-ebook/dp/B07QB8XLPQ/ref=sr_1_1?dchild=1&keywords=vinicius+buscacio&qid=1587343391&sr=8-1
+
+File Size: 18085 KB
+Print Length: 325 pages
+Publisher: Techbook Publishing (April 3, 2019)
+Publication Date: April 3, 2019
+Sold by: Amazon.com Services LLC
+Language: English
+ASIN: B07QB8XLPQ
+Amazon Best Sellers Rank: #199,522 Paid in Kindle Store (See Top 100 Paid in Kindle Store)
+	#208 in Computer Networks, Protocols & APIs (Books)
+	#132 in Computer Networks, Protocols & APIs (Kindle Store)
+	#224 in Computers & Technology Teaching & Reference
+
+
+*** Meus cursos
+
+<INSERIR FOTO06>
+
+Tenho 2 cursos publicados na plataforma de cursos online Udemy.com, ambos em português:
+
+	* Implementação de Telefonia IP Cisco - Call Manager (CUCM)
+Como instalar, configurar e realizar ajustes avançados no servidor de Telefonia IP Cisco Call Manager (CUCM).
+
+https://www.udemy.com/course/implementacao-de-telefonia-ip-cisco-call-manager-cucm/
+
+Algumas das atividades do curso são: 
+	- Configurar o servidor de Telefonia IP Cisco Call Manager
+	- Gerenciar permissões e roteamento de chamadas
+	- Realizar integrações com a rede de telefonia pública (PSTN)
+	- Configurar funcionalidades avançadas dos ambiente de IPT Cisco
+
+	* Rede Cisco em 9 passos - O básico do CCNA
+Crie uma rede Cisco no Simulador Oficial Cisco Packet Tracer do zero
+
+https://www.udemy.com/course/rede-cisco-em-9-passos-o-basico-do-ccna/
+
+Algumas das atividades do curso são:
+	- Realizar configurações básicas em roteadores e switches Cisco
+	- Criar uma rede completa, configurando VLANs, Trunks e Roteamento Estático
+	- Configurar um NAT para compartilhamento de Internet
+	- Configurar os parâmetros básicos do protocolo de roteamento EIGRP
+	- Configurar os parâmetros básicos do protocolo de roteamento OSPF
+
+
+*** Meu canal no Youtube
+
+<INSERIR FOTO07>
+
+Possuo desde junho de 2019 um canal no Youtube onde falo de Telefonia IP Cisco, Redes IP, Redes Wireless, entre outros assuntos.
+
+https://www.youtube.com/channel/UCXpovTsQixhzo_y50FA-TXg
+
+
+*** Minhas experiências
+
+Trabalho com Redes Cisco desde 2005, e com Telefonia IP Cisco desde 2007. Já implementei e suportei vários sistemas de telefonia IP Cisco, como CUCM (Call Manager), desde a versão 3 até a última versão 12, Cisco Unity Connection (Voicemail), Cisco Presence (Jabber), Cisco MCU (Videoconferência Multiponto), Gateways de Voz com links E1 ISDN, R2 Digital e FXO, servidores de videoconferência	como VCS-C e VCS-E, entre outros.
+
+Tenho também experiência em ambientes de Routing & Switching, além de Windows Active Directory, Linux, Wireless Cisco, Cisco ASA Firewall, VMware ESXi e outros.
+
+Possuo as certificações Cisco CCNA, Cisco CCNP Routing & Switching, Cisco CCNP Collaboration e Cisco CCDA (Design).
+
+
+*** Contato
+
+vinicius@buscacio.net
+
+https://www.linkedin.com/in/viniciusbuscacio/
+
+
