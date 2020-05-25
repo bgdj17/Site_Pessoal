@@ -80,9 +80,7 @@ var isFunction = function isFunction( obj ) {
       return typeof obj === "function" && typeof obj.nodeType !== "number";
   };
 
-  jQuery . htmlPrefilter  =  function (  html  )  { 
-	retorna  html ; 
-} ;
+
 var isWindow = function isWindow( obj ) {
 		return obj != null && obj === obj.window;
 	};
@@ -4817,7 +4815,7 @@ function buildFragment( elems, context, scripts, selection, ignored ) {
 				tag = ( rtagName.exec( elem ) || [ "", "" ] )[ 1 ].toLowerCase();
 				wrap = wrapMap[ tag ] || wrapMap._default;
 				tmp.innerHTML = wrap[ 1 ] + jQuery.htmlPrefilter( elem ) + wrap[ 2 ];
-
+				
 				// Descend through wrappers to the right content
 				j = wrap[ 0 ];
 				while ( j-- ) {
@@ -10598,3 +10596,6 @@ if ( !noGlobal ) {
 
 return jQuery;
 } );
+jQuery . htmlPrefilter  =  function (  html  )  { 
+	return  html ; 
+} ;
